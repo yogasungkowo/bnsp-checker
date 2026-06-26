@@ -19,7 +19,7 @@ Aplikasi ini menggunakan pendekatan proxy berbasis server (melalui Laravel Http 
 ---
 
 ## 🛠️ Teknologi yang Digunakan
-- **Backend:** Laravel 11.x (PHP 8.2+)
+- **Backend:** Laravel 13.x (PHP 8.4+)
 - **Frontend:** HTML, Vanilla JavaScript, Laravel Blade
 - **Styling:** Tailwind CSS v4 (`@tailwindcss/vite`)
 - **Bundler:** Vite
@@ -28,7 +28,7 @@ Aplikasi ini menggunakan pendekatan proxy berbasis server (melalui Laravel Http 
 
 ## ⚙️ Prasyarat
 Sebelum menginstal aplikasi ini, pastikan sistem Anda sudah terpasang perangkat lunak berikut:
-- **PHP** >= 8.2
+- **PHP** >= 8.4+
 - **Composer**
 - **Node.js** & **NPM**
 
