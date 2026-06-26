@@ -1,6 +1,6 @@
 # BNSP Certificate Checker
 
-![BNSP Checker](https://raw.githubusercontent.com/yogasungkowo/bnsp-checker-app/main/public/preview.png) *(Ilustrasi preview website jika ada)*
+![BNSP Checker](https://i.ibb.co.com/V0YDQhGd/Screenshot-From-2026-06-26-11-40-40.png)
 
 ## 📖 Deskripsi
 **BNSP Certificate Checker** adalah aplikasi web berbasis Laravel dan Tailwind CSS untuk memverifikasi keaslian dan validitas sertifikat kompetensi BNSP. Aplikasi ini terintegrasi langsung dengan API resmi dari **LSP Digital Indonesia** dan menyajikan data secara real-time.
